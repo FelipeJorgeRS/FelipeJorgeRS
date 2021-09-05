@@ -1,3 +1,4 @@
+![programacao](https://user-images.githubusercontent.com/90123100/132129346-95b51197-e897-48ea-9c67-bdab57c96295.png)
 Deixa eu me apresentar a você.
 Meu nome é Felipe Jorge
 - 🔭 Atualmente estou trabalhando em apreder a programar
