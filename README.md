@@ -2,8 +2,7 @@
 
 Deixa eu me apresentar a você.
 Meu nome é Felipe Jorge
-- 🔭 Atualmente estou trabalhando em apreder a programar
-- 🌱Atualmente estou aprendendo UML e Java
+- 🔭Atualmente estou aprendendo Qualidade de Software e Java
 - 👯 Estou procurando colaborar em Repositórios Em Java.
 - 🤔 Estou procurando ajuda com Produzir projetos no GitHub
 - 💬Pergunte-me sobre Ideias novas se tornarem programas ou aplicativos
