@@ -2,7 +2,7 @@
 
 Deixa eu me apresentar a você.
 Meu nome é Felipe Jorge
-- 📚 Atualmente estou aprendendo IA artificial intelligence e Big Data Analytics
+- 📚 Atualmente estou aprendendo Python e SQL
 - 💻 Estou a procura de trabalho em desenvovimento de Software.
 - 💾 Codifico em Java.
 - 💬 Quero colabora come Ideias que podem se tornarem programas ou aplicativos
