@@ -4,9 +4,8 @@ Deixa eu me apresentar a você.
 Meu nome é Felipe Jorge
 - 📚 Atualmente estou aprendendo Python e SQL
 - 💻 Estou a procura de trabalho em desenvovimento de Software.
-- 💾 Codifico em Java.
-- 💬 Quero colabora come Ideias que podem se tornarem programas ou aplicativos
+- 💾 Codifico em Java e Python.
+- 💬 Quero colabora come Ideias que podem se tornarem programas ou aplicativos.
 - 📫 Como me encontrar: https://www.linkedin.com/in/felipejorge29
-- 😄 pronomes:FJ
 - 🎹 curiosidades: Gosto muito de Música.
 
