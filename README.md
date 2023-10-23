@@ -5,6 +5,6 @@ Meu nome é Felipe Jorge
 - 💻 Estou a procura de trabalho em desenvovimento de Software.
 - 💾 Codifico em Java, Python, C e Consultas SQL.
 - 💬 Quero colabora come Ideias que podem se tornarem programas ou aplicativos.
-- 📫 Como me encontrar: https://www.linkedin.com/in/felipejorge29
-- 🎹 curiosidades: Gosto muito de Música.
+- 📫 Como me encontrar: https://www.linkedin.com/in/felipejorge29 ou felipe.jorge.2g@gmail.com
+
 
